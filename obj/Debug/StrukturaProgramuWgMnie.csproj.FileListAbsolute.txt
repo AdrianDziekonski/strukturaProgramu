@@ -1,0 +1,8 @@
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\bin\Debug\StrukturaProgramuWgMnie.exe.config
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\bin\Debug\StrukturaProgramuWgMnie.exe
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\bin\Debug\StrukturaProgramuWgMnie.pdb
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\obj\Debug\StrukturaProgramuWgMnie.csproj.AssemblyReference.cache
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\obj\Debug\StrukturaProgramuWgMnie.csproj.SuggestedBindingRedirects.cache
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\obj\Debug\StrukturaProgramuWgMnie.csproj.CoreCompileInputs.cache
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\obj\Debug\StrukturaProgramuWgMnie.exe
+G:\Praca\IT\C#\StrukturaProgramuWgMnie\obj\Debug\StrukturaProgramuWgMnie.pdb
